@@ -1,0 +1,5 @@
+lane :funky do
+	scan(
+		code_coverage: true
+	)
+end
